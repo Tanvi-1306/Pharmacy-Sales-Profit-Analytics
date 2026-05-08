@@ -10,10 +10,10 @@ Executive Overview
 Pharmacy & Regional Insights
 ![image alt](https://github.com/Tanvi-1306/Pharmacy-Sales-Profit-Analytics/blob/main/Screenshot%20(184).png)
 
- Time & Trend Analysis
+Time & Trend Analysis
 ![image alt](https://github.com/Tanvi-1306/Pharmacy-Sales-Profit-Analytics/blob/main/Screenshot%20(185).png)
 
- Profitability & Promotions
+Profitability & Promotions
 ![image alt](https://github.com/Tanvi-1306/Pharmacy-Sales-Profit-Analytics/blob/main/Screenshot%20(186).png)
 
 
