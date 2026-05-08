@@ -4,6 +4,7 @@ Interactive Power BI dashboard analyzing pharmacy sales, profitability, products
 ![image alt](https://github.com/Tanvi-1306/Pharmacy-Sales-Profit-Analytics/blob/main/Screenshot%20(182).png)
 ![image alt](https://github.com/Tanvi-1306/Pharmacy-Sales-Profit-Analytics/blob/main/Screenshot%20(183).png)
 ![image alt](https://github.com/Tanvi-1306/Pharmacy-Sales-Profit-Analytics/blob/main/Screenshot%20(184).png)
+![image alt](https://github.com/Tanvi-1306/Pharmacy-Sales-Profit-Analytics/blob/main/Screenshot%20(185).png)
 
 
 # PharmaPulse Analytics Dashboard
