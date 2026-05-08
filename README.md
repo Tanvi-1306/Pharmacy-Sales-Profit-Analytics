@@ -1,10 +1,19 @@
 # Pharmacy-Sales-Profit-Analytics
 Interactive Power BI dashboard analyzing pharmacy sales, profitability, products, promotions, and regional performance.
 
+Executive Overview
 ![image alt](https://github.com/Tanvi-1306/Pharmacy-Sales-Profit-Analytics/blob/main/Screenshot%20(182).png)
+
+ Product Analysis
 ![image alt](https://github.com/Tanvi-1306/Pharmacy-Sales-Profit-Analytics/blob/main/Screenshot%20(183).png)
+
+Pharmacy & Regional Insights
 ![image alt](https://github.com/Tanvi-1306/Pharmacy-Sales-Profit-Analytics/blob/main/Screenshot%20(184).png)
+
+ Time & Trend Analysis
 ![image alt](https://github.com/Tanvi-1306/Pharmacy-Sales-Profit-Analytics/blob/main/Screenshot%20(185).png)
+
+ Profitability & Promotions
 ![image alt](https://github.com/Tanvi-1306/Pharmacy-Sales-Profit-Analytics/blob/main/Screenshot%20(186).png)
 
 
